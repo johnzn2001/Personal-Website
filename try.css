@@ -1,0 +1,244 @@
+.indexPage{
+    position: absolute;
+    color: white;   
+    top: 100px;
+    left: 400px;
+    background-color: transparent;
+    width: 1000px;
+    height: 600px;
+}
+
+.indexDes{
+    position: absolute;
+    color: white;
+    top: 400px;
+    left: 650px;
+    background-color: transparent;
+}
+
+.external{
+    text-decoration: none;
+    color: #DD5E89;
+}
+
+body{
+    background: url('images/test.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.bodyTest{
+    background-color: #dedede;
+}
+
+.about{
+    position: absolute;
+    color: black;
+    top: 100px;
+    left: 50px;
+    background-color: #f7f7f7;
+    width: 1400px;
+    height: 300px;
+    border-radius: 1%;
+    box-shadow: 10px 5px 5px #262626;
+}
+
+.aboutPicture{
+    position: absolute;
+    top: 450px;
+    left: 900px;
+    border: 5px solid #f7f7f7;
+}
+
+.aboutPicture2{
+    position: absolute;
+    top: 450px;
+    left: 100px;
+    border: 5px solid #f7f7f7;
+}
+
+.resume{
+    position: absolute;
+    top: 590px;
+    left: 425px;
+}
+
+.interestT{
+    position: absolute;
+    color: black;
+    top: 120px;
+    left: 50px;
+    background-color: #f7f7f7;
+    width: 700px;
+    height: 420px;
+    border-radius: 1%;
+    box-shadow: 10px 5px 5px #262626;
+}
+
+.informationT{
+    position: absolute;
+    color: black;
+    top: 120px;
+    left: 800px;
+    background-color: #f7f7f7;
+    width: 700px;
+    height: 420px;
+    border-radius: 1%;
+    box-shadow: 10px 5px 5px #262626;
+}
+
+.qualPic1{
+    position: absolute;
+    top: 320px;
+    left: 830px;
+    
+}
+
+.qualPic2{
+    position: absolute;
+    top: 320px;
+    left: 1080px;
+    
+}
+
+.qualPic3{
+    position: absolute;
+    top: 320px;
+    left: 1330px;
+    
+}
+
+.pantry{
+    position: absolute;
+    color: black;
+    top: 450px;
+    left: 200px;
+    background-color: #f7f7f7;
+    width: 500px;
+    height: 450px;
+    border-radius: 1%;
+    box-shadow: 10px 5px 5px #262626;
+}
+
+.stephen{
+    position: absolute;
+    color: black;
+    top: 450px;
+    left: 900px;
+    background-color: #f7f7f7;
+    width: 500px;
+    height: 450px;
+    border-radius: 1%;
+    box-shadow: 10px 5px 5px #262626;
+}
+
+
+.servicepic1{
+    position: absolute;
+    top: 125px;
+    left: 200px;
+    border: 5px solid white;
+    border-radius: 100%
+}
+
+#sPic1{
+    border-radius: 100%;
+}
+
+.servicepic2{
+    position: absolute;
+    top: 125px;
+    left: 900px;
+    border: 5px solid white;
+    border-radius: 100%
+}
+
+#sPic2{
+    border-radius: 100%;
+}
+
+.line1{
+    opacity: 0.0;
+}
+
+.line2{
+    opacity: 0.0;
+}
+
+.techProj{
+    position: absolute;
+    color: black;
+    top: 120px;
+    left: 50px;
+    background-color: #f7f7f7;
+    width: 700px;
+    height: 420px;
+    border-radius: 1%;
+    box-shadow: 10px 5px 5px #262626;
+}
+
+.addProj{
+    position: absolute;
+    color: black;
+    top: 600px;
+    left: 50px;
+    background-color: #f7f7f7;
+    width: 1450px;
+    height: 250px;
+    border-radius: 1%;
+    box-shadow: 10px 5px 5px #262626;
+}
+
+.githubPic{
+    position: absolute;
+    top: 630px;
+    left: 1040px;
+}
+
+.techpic1{
+    position: absolute;
+    top: 205px;
+    left: 875px;
+    border-radius: 25%;
+}
+
+#tPic1{
+    border-radius: 25%;
+}
+
+.line3{
+    opacity: 0.0;
+}
+
+.button{
+    position: absolute;
+    top: 20px;
+    left: 1500px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #f7f7f7;
+    color: black;
+  }
+  
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+ 
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+ 
